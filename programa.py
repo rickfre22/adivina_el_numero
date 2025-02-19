@@ -9,6 +9,6 @@ while n!=cpu:
     n=int(input("escribe un numero otra vez: "))
     i=i+1
 
-print("adivinaste")
+print("---adivinaste---")
 print(f"numero de intentos: {i}")
 
